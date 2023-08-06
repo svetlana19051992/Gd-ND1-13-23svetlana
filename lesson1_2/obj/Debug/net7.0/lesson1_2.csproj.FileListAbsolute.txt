@@ -1,0 +1,15 @@
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.csproj.AssemblyReference.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.AssemblyInfoInputs.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.AssemblyInfo.cs
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\bin\Debug\net7.0\lesson1_2.exe
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\bin\Debug\net7.0\lesson1_2.deps.json
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\bin\Debug\net7.0\lesson1_2.runtimeconfig.json
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\bin\Debug\net7.0\lesson1_2.dll
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\bin\Debug\net7.0\lesson1_2.pdb
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.dll
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\refint\lesson1_2.dll
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.pdb
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\lesson1_2.genruntimeconfig.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson1_2\obj\Debug\net7.0\ref\lesson1_2.dll

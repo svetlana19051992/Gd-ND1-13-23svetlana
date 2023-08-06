@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lesson8_2
+{
+    public class TextGenerator
+    {
+        public static void GenerateText(string filename,  long lengthText)
+        { 
+            Random random = new Random(); 
+            using (StreamWriter writer = new StreamWriter(filename))
+            {
+                for (long i= 0; i < lengthText; i++)
+                { 
+                    writer.Write((char)random.Next(32, 52)); 
+                }
+            }           
+        }
+    }
+}

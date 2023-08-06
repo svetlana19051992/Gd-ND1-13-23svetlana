@@ -1,0 +1,15 @@
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\bin\Debug\net7.0\home0.exe
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\bin\Debug\net7.0\home0.deps.json
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\bin\Debug\net7.0\home0.runtimeconfig.json
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\bin\Debug\net7.0\home0.dll
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\bin\Debug\net7.0\home0.pdb
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.vbproj.AssemblyReference.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.AssemblyInfoInputs.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.AssemblyInfo.vb
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.dll
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\refint\home0.dll
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.pdb
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\home0.genruntimeconfig.cache
+C:\Users\admin\Gd-ND1-13-23svetlana\lesson0\home0\obj\Debug\net7.0\ref\home0.dll
